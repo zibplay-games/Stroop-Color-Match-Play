@@ -1,14 +1,14 @@
-# Privacy Policy for Word Search Play
+# Privacy Policy for Stroop Color Match Play
 
 **Last updated:** 15 June 2026
 
-This Privacy Policy explains how **ZibPlay** ("we", "us", or "our") collects, uses, and shares information when you use the mobile game **Word Search Play**.
+This Privacy Policy explains how **ZibPlay** ("we", "us", or "our") collects, uses, and shares information when you use the mobile game **Stroop Color Match Play**.
 
 By using the game, you agree to this Privacy Policy.
 
 ## 1. Information We Collect
 
-Word Search Play does not require account registration.
+Stroop Color Match Play does not require account registration.
 
 We collect limited information necessary to operate, improve, secure, and maintain the game.
 
@@ -26,7 +26,7 @@ We do not require users to create an account, and we do not intentionally collec
 
 ## 2. Advertising
 
-Word Search Play does not display third-party advertising.
+Stroop Color Match Play does not display third-party advertising.
 
 We do not use advertising data to show ads inside the game.
 
@@ -56,7 +56,7 @@ Examples may include:
 
 ## 5. Gameplay Data
 
-Word Search Play may store basic gameplay data such as scores, progress, settings, preferences, or in-game activity.
+Stroop Color Match Play may store basic gameplay data such as scores, progress, settings, preferences, or in-game activity.
 
 This data may be stored locally on your device or processed through technical services used to operate and improve the game.
 
@@ -93,7 +93,7 @@ To request deletion of data related to your use of the game, contact us at:
 
 ## 8. Children's Privacy
 
-Word Search Play is not intended to knowingly collect personal information from children.
+Stroop Color Match Play is not intended to knowingly collect personal information from children.
 
 If you believe that a child has provided personal information, please contact us at **[privacy@zibplay.com](mailto:privacy@zibplay.com)** and we will review and delete the information where required.
 
